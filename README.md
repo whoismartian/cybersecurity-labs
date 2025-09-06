@@ -6,4 +6,4 @@ This repository contains my cybersecurity lab screenshots and notes.
 
 Here’s my first lab screenshot showing Kali Linux running in VirtualBox:
 
-![Kali VM Screenshot](Screenshots/kali_lab.png)
+![Kali VM Screenshot](Screenshots/kali_lab.PNG)
