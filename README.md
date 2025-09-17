@@ -8,7 +8,7 @@ This repo is where I document my progress, practice labs, and share notes as I b
 ## 📸 Screenshots
 Visual progress from my labs and practice:
 
-- [Kali VM Screenshot](Screenshots/kali_lab.png)
+- [Kali VM Screenshot](Screenshots/kali_lab.PNG)
 
 ---
 
